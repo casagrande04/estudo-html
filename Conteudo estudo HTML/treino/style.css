@@ -1,0 +1,51 @@
+
+
+body {
+    font-size: x-large;
+    font-family:Verdana;
+    font-weight: bold;
+    
+}
+
+.primeiro {
+    color: yellowgreen;
+    border: solid red;
+    border-radius: 40px 20px;
+    background-color: #ffee0048;
+    width: 340px;
+    padding: 10px 10px 5px 10px;
+    box-shadow: -10px 10px 10px 10px #888888;
+}
+
+.google {
+    color: rgb(17, 0, 255);
+    border: solid red;
+    border-radius: 40px 20px;
+    background-color: #ffee0048;
+    width: 340px;
+    padding: 10px 10px 5px 10px;
+    box-shadow: -10px 10px 10px 10px #888888;
+    margin-left: 120px;
+}
+
+.git {
+    color: tomato;
+    border: solid red;
+    border-radius: 40px 20px;
+    background-color: #ffee0048;
+    width: 340px;
+    padding: 10px 10px 5px 10px;
+    box-shadow: -10px 10px 10px 10px #888888;
+    margin-left: 240px;
+}
+
+.seat {
+    color: purple;
+    border: solid red;
+    border-radius: 40px 20px;
+    background-color: #ffee0048;
+    width: 340px;
+    padding: 10px 10px 5px 10px;
+    box-shadow: -10px 10px 10px 10px #888888;
+    margin-left: 360px;
+}
